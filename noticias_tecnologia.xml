@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de 1º DAW 2025</title>
+        <link>https://www.alborfp.com/rss</link>
+        <description>Todos los cotilleos acerca de la seccion el reservado</description>
+        <author>Gabriel</author>
+        <language>es</language>
+        <pubDate>Wed, 05 Feb 2025 08:00:00 EST</pubDate>
+        <lastBuildDate>Fri, 07 Feb 2025 20:00:00 EST</lastBuildDate>
+ 
+        <item>
+            <title>Google retira de su política la prohibición de usar la IA en armamento o vigilancia</title>
+            <link>https://elpais.com/tecnologia/2025-02-05/google-retira-de-su-politica-la-prohibicion-de-usar-la-ia-en-armamento-o-vigilancia.html</link>
+            <description>Hasta ahora la compañía se autoimponía el compromiso de no aplicar tecnologías que pueden causar “daño general”.</description>
+            <author>Gabriel</author>
+            <pubDate>Wed, 05 Feb 2025 09:00:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2025-02-05/google-retira-de-su-politica-la-prohibicion-de-usar-la-ia-en-armamento-o-vigilancia.html</guid>
+            <category>Tecnología</category>
+        </item>
+ 
+        <item>
+            <title>Michael I. Jordan, pionero de la IA: “Hay un poco de soberbia en el mundo de la IA”</title>
+            <link>https://elpais.com/tecnologia/2025-02-04/michael-i-jordan-pionero-de-la-ia-hay-un-poco-de-soberbia-en-el-mundo-de-la-ia.html<link>
+            <description>El matemático, reciente premio Fundación BBVA Fronteras del Conocimiento, cree que la explosión actual de la inteligencia artificial tiene el foco en una solución mágica a todos los problemas que no llegará.</description>
+            <author>Gabriel</author>
+            <pubDate>Tues, 04 Feb 2025 12:00:00 EST</pubDate>
+            <guid>https://elpais.com/tecnologia/2025-02-04/michael-i-jordan-pionero-de-la-ia-hay-un-poco-de-soberbia-en-el-mundo-de-la-ia.html</guid>
+            <category>Tecnología</category>
+        </item>
+
+
+        <item>
+            <title>El Barcelona Supercomputing Center presenta el primer ordenador cuántico de España con tecnología únicamente europea</title>
+            <link>https://elpais.com/espana/catalunya/2025-02-06/el-barcelona-supercomputing-center-presenta-el-primer-ordenador-cuantico-de-espana-con-tecnologia-unicamente-europea.html<link>
+            <description>El proyecto de Quantum Spain se integrará en la red de supercomputación española.</description>
+            <author>Gabriel</author>
+            <pubDate>Thurs, 06 Feb 2025 16:00:00 EST</pubDate>
+            <guid>https://elpais.com/espana/catalunya/2025-02-06/el-barcelona-supercomputing-center-presenta-el-primer-ordenador-cuantico-de-espana-con-tecnologia-unicamente-europea.html</guid>
+            <category>Tecnología</category>
+        </item>
+    </channel>
+</rss>
