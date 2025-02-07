@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología 2025</title>
+        <link>https://www.ejemplo.com/rss</link>
+        <description>Las noticias más relevantes del mundo tecnológico.</description>
+        <language>es</language>
+        <pubDate>Lunes, 07 Febrero 2025 09:18:00 +0000</pubDate>
+        <lastBuildDate>Lunes, 07 Febrero 2025 09:18:00 +0000</lastBuildDate>
+ 
+        <item>
+            <title>Lanzamiento de un nuevo chip para IA</title>
+            <link>https://www.ejemplo.com/chip-ia</link>
+            <descriptión>El nuevo chip promete revolucionar las capacidades de procesamiento en inteligencia artificial.</description>
+            <pubDate>Mon, 27 Jan 2025 10:00:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/chip-ia</guid>
+            <category>Tecnología</category>
+        </item>
+ 
+        <item>
+            <title>Las startups más innovadoras de 2025</title>
+            <link>https://www.ejemplo.com/startups-2025<link>
+            <description>Un vistazo a las empresas emergentes que están transformando la industria tecnológica.</description>
+            <pubDate>Mon, 27 Jan 2025 08:30:00 +0000</pubDate>
+            <guid>https://www.ejemplo.com/startups-2025</guid>
+            <category>Emprendimiento</category>
+        </iten>
+    </channel>
+</rss>
